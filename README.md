@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi There, I'm Test 👋
 
-<!--
-**davidrodma/davidrodma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Test [@Uol](https://uol)
+- 🌱 Test
+- 👯 Test
+- 💬 Test `[Php, Node, React, Javascript]` 
+- 😄 Test
+- ⚡ Test `rm -rf /`
 
-Here are some ideas to get you started:
+![Save Big Test's](https://github-readme-stats.vercel.app/api?username=davidrodma&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Followers](https://img.shields.io/github/followers/davidrodma?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/davidrodma)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/davidrodma/)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/davidrodma)
