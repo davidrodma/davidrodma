@@ -3,7 +3,7 @@
 - 🔭 Test [@Uol](https://uol)
 - 🌱 Test
 - 👯 Test
-- 💬 Test `[Php, Node, React, Javascript]` 
+- 💬 Test `[Typescript/Javascript, PHP, Node, React]` 
 - 😄 Test
 - ⚡ Test `rm -rf /`
 
