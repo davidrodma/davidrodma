@@ -1,9 +1,9 @@
 # Hi There, I'm Test 👋
 
-- 🔭 Test [@Uol](https://uol)
+- 🔭 Test [@Uol](https://www.uol.com.br)
 - 🌱 Test
 - 👯 Test
-- 💬 Test `[Typescript/Javascript, PHP, Node, React]` 
+- 💬 Test `[Node, Typescript/Javascript, React, NextJs, NestJs, PHP]` 
 - 😄 Test
 - ⚡ Test `rm -rf /`
 
